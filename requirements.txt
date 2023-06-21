@@ -1,0 +1,4 @@
+pyautogui==0.9.53
+easygui==0.98.3
+requests==2.31.0
+easygui==0.98.3

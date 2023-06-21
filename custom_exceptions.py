@@ -1,0 +1,2 @@
+class LibreOfficeOpenError(Exception):
+    pass
